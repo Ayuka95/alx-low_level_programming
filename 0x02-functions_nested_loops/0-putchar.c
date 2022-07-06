@@ -4,7 +4,7 @@
  * main - Prints "_putchar"
  * Return: 0 for success
 */
-int _putchar(char c)
+int main(void)
 {
 	_putchar('_');
 	_putchar('p');
@@ -17,3 +17,23 @@ int _putchar(char c)
 	_putchar('\n');
 	return (0);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
