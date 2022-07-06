@@ -1,3 +1,3 @@
-9.Write a function that prints the 9 times table, starting with 0.
+14.Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 
 
