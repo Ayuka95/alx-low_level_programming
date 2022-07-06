@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - print sum of all multiples of 3 and 5 up to 1024
@@ -26,8 +27,38 @@ int main(void)
 	printf("%d\n", sum);
 	return (0);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
