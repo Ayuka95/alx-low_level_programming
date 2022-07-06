@@ -1,3 +1,3 @@
-Write a function that checks for lowercase character. 
+6.Write a function that computes the absolute value of an integer.
 
 
