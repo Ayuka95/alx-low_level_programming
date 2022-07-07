@@ -1,6 +1,3 @@
-
-
-
 #include "main.h"
 /**
  * _isupper - checks if value is upper case
@@ -12,10 +9,29 @@
 
 int _isupper(int c)
 {
-	if (c >= 'A' && c <= 'Z')
-		return (1);
-	return (0);
+                return (c >= 'A' && c <= 'Z');
+       
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
