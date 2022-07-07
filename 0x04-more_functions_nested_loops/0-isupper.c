@@ -1,3 +1,5 @@
+
+#include <studio.h>
 #include "main.h"
 /**
  * _isupper - checks if value is upper case
