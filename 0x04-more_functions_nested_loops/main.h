@@ -25,8 +25,8 @@
  * print a diagonal line of n length
  * print a square of n size
  * print a triangle of n size
- *
- *
+ * prints the largest prime factor of the number
+ * print an intiger of n
  *
  **/
 int _putchar(char);
@@ -54,4 +54,4 @@ void print_diagonal(int);
 void print_square(int);
 void print_triangle(int);
 int main(void);
-int exponent(int);
+void print_number(int n);
