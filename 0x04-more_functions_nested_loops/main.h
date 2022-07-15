@@ -54,4 +54,5 @@ void print_diagonal(int);
 void print_square(int);
 void print_triangle(int);
 int main(void);
+int exponent(int x, int y);
 void print_number(int n);
