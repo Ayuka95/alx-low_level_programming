@@ -1,7 +1,6 @@
 #include <unistd.h>
 
 /**
-<<<<<<< HEAD
  * _putchar - writes the character c to stdout
  * print_alphabet - prints alphabet and returns new line
  * print_alphabet_x10 - print alphabet 10 times
@@ -15,8 +14,6 @@
  * times_table - prints times table up to 9
  * print_to_98 - prints all natural numbers to 98
  * print_times_table - print times table up to
-=======
->>>>>>> fbbafcbabff7602e60c653ab5ed064dc1395188f
  * _isupper - checks if char is capital letter
  * _isdigit - checks if int is a digit 0-9
  * mul - multiply two numbers
@@ -28,7 +25,6 @@
  * print a diagonal line of n length
  * print a square of n size
  * print a triangle of n size
-<<<<<<< HEAD
  *
  *
  *
@@ -46,12 +42,6 @@ void jack_bauer(void);
 void times_table(void);
 void print_to_98(int);
 void print_times_table(int);
-=======
- * reset_to_98 - takes pointer int and update the value to 98
- *
- *
- **/
->>>>>>> fbbafcbabff7602e60c653ab5ed064dc1395188f
 int _isupper(int);
 int _isdigit(int);
 int mul(int, int);
@@ -63,18 +53,3 @@ void print_line(int);
 void print_diagonal(int);
 void print_square(int);
 void print_triangle(int);
-<<<<<<< HEAD
-=======
-void reset_to_98(int *n);
-void swap_int(int *a, int *b);
-int _strlen(char *s);
-void _puts(char *str);
-void print_rev(char *s);
-void rev_string(char *s);
-void puts2(char *str);
-void puts_half(char *str);
-void print_array(int *a, int n);
-char *_strcpy(char *dest, char *src);
-int _atoi(char *s);
-
->>>>>>> fbbafcbabff7602e60c653ab5ed064dc1395188f
